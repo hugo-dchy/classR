@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494606958493",
+    "firebase_url": "https://classr-ab448-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "classr-ab448",
+    "storage_bucket": "classr-ab448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494606958493:android:c5e9a433df1bad349a7974",
+        "android_client_info": {
+          "package_name": "com.hugodch.classr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494606958493-t86t9gnnep46mn7fmbv9b54od15qq2h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQNsBg0BgZtItLUGU6dSlyplYVYrrKQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494606958493-t86t9gnnep46mn7fmbv9b54od15qq2h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494606958493-u0jr27fop86b456euuosq637p47h047o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hugodch.classr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
